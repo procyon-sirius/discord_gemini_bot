@@ -1,6 +1,6 @@
 ### 🤖 Discord Gemini 챗봇 (슬래시 명령어 기반)
 
-이 프로젝트는 Python의 discord.py 라이브러리와 Google의 google-genai 라이브러리를 사용하여 개발된 디스코드 챗봇입니다. Slash Command (/gemini)를 통해 강력한 Gemini 2.5 Pro 모델의 답변을 즉시 얻을 수 있으며, 모든 응답은 일반 텍스트 메시지 형태로 질문 내용과 함께 깔끔하게 전송됩니다.
+이 프로젝트는 Python의 discord.py 라이브러리와 Google의 google-genai 라이브러리를 사용하여 개발된 디스코드 챗봇입니다. Slash Command (/gemini)를 통해 강력한 Gemini 2.5 flash 모델의 답변을 즉시 얻을 수 있으며, 모든 응답은 일반 텍스트 메시지 형태로 질문 내용과 함께 깔끔하게 전송됩니다.
 
 
 ## ✨ 주요 특징
