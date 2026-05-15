@@ -27,7 +27,7 @@ OAuth2 > URL Generator에서 bot 및 applications.commands 스코프를 선택�
 pip install discord.py google-genai
 ```
 
-### 2. 환경 변수 설정 (매우 중요!)
+### 2. 환경 변수 설정 (매우 중요)
 보안을 위해 봇 토큰과 API 키를 환경 변수로 설정해야 합니다. YOUR_..._KEY 부분을 실제 키 값으로 대체하세요.  
 
 Windows (PowerShell 권장)  
